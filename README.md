@@ -4,6 +4,8 @@ description: test2
 
 # Book of Defold
 
+**TEXT MIGRATION IN PROGRESS!**
+
 This book is a community project and is published into the public domain. Its license is:
 
 [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
