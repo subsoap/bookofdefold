@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Book of Defold](README.md)
 
 ## Defold A-Z
 
