@@ -1,5 +1,5 @@
 ---
-description: test2
+description: Learn to make games with Defold from a professional.
 ---
 
 # Book of Defold
