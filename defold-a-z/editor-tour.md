@@ -72,7 +72,7 @@ The console shows information when you build your project from **Project-&gt;Bui
 
 ### Search Results
 
-### Viewport
+### Scene Editor / Viewport
 
 
 
