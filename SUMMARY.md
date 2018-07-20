@@ -14,3 +14,9 @@
 * [Make Games Now!](dive-into-defold/make-games-now.md)
 * [Avoider - Action](dive-into-defold/avoider-action.md)
 
+## Dev Tips
+
+* [Learn Programming](dev-tips/learn-programming.md)
+* [Game Business](dev-tips/game-business.md)
+* [Useful Software](dev-tips/useful-software.md)
+
