@@ -14,3 +14,5 @@ This book is for anyone who wishes to learn how to make games professionally wit
 
 Defold can be downloaded at: [https://www.defold.com/](https://www.defold.com/)
 
+If you want to start making games right now without reading too much then jump straight ahead to the [**Dive into Defold**](dive-into-defold/make-games-now.md) section.
+
