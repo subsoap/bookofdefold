@@ -24,3 +24,21 @@ When creating a new project from the launcher, you can pick from various templat
 
 To import projects from the Defold cloud you must have created an account on Defold.com and created a project on your dashboard there. Using the Defold cloud is not required to make games with Defold. You can easily use your own Git hosting for your projects.
 
+## Main Editor
+
+![](../.gitbook/assets/editor-2018-07-20-08_52_10-window.png)
+
+Once you've created from a template or loaded a project the main editor will open. 
+
+On the left is the **Assets** panel. These are the files that are inside of your project folder. The **builtins** folder is a special read only library that is included in all Defold projects with some essential defaults an empty project needs such as default shader materials. You can import other libraries too, but you cannot omit the **builtins**.
+
+On the bottom left is the **Changed Files**. This will show you any file modifications since your last git commit. If you use the editor's own git features or your own git setup the changed files will show here as long as you have a git repository setup. You can tell there is no git repository setup when no changed files history shows up, but also by the fact there is no .git folder in your project's home directory.
+
+![No .git folder means no git version control.](../.gitbook/assets/no-git-2018-07-20-08_58_07-window.png)
+
+![Example of a project with a .git folder](../.gitbook/assets/2018-07-20-08_59_57-window.png)
+
+**.git** is used for git version control, **.internal** is used by the editor, and the **build** folder is for temporary files while building or bundling. You may occasionally need to delete your .internal or build folders if instructed. These folders should not be saved to your git version control, and you should be careful to not include them in any zips of your project as they are not needed and only add extra space.
+
+
+
