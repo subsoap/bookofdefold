@@ -12,4 +12,5 @@
 ## Dive into Defold
 
 * [Make Games Now!](dive-into-defold/make-games-now.md)
+* [Avoider - Action](dive-into-defold/avoider-action.md)
 
