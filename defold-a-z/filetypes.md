@@ -1,6 +1,6 @@
 ---
-description: A list of all filetypes related to working with Defold.
+description: A list of all file types related to working with Defold.
 ---
 
-# Filetypes
+# File Formats
 

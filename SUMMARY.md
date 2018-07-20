@@ -9,7 +9,8 @@
 * [Defold History](defold-a-z/defold-history.md)
 * [Editor Tour](defold-a-z/editor-tour.md)
 * [Defold Tips](defold-a-z/defold-tips.md)
-* [Filetypes](defold-a-z/filetypes.md)
+* [File Formats](defold-a-z/filetypes.md)
+* [game.project](defold-a-z/game.project.md)
 
 ## Dive into Defold
 
