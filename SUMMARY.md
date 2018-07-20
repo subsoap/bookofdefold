@@ -5,6 +5,7 @@
 ## Defold A-Z
 
 * [What is Defold?](defold-a-z/what-is-defold.md)
+* [Why Defold?](defold-a-z/why-defold.md)
 * [Defold History](defold-a-z/defold-history.md)
 * [Editor Tour](defold-a-z/editor-tour.md)
 
