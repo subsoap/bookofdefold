@@ -5,8 +5,8 @@
 ## Defold A-Z
 
 * [What is Defold?](defold-a-z/what-is-defold.md)
-* [Defold History](defold-a-z/defold-history/README.md)
-  * [Editor Tour](defold-a-z/defold-history/editor-tour.md)
+* [Defold History](defold-a-z/defold-history.md)
+* [Editor Tour](defold-a-z/editor-tour.md)
 
 ## Dive into Defold
 
