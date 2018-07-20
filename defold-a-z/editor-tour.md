@@ -30,7 +30,9 @@ To import projects from the Defold cloud you must have created an account on Def
 
 Once you've created from a template or loaded a project the main editor will open. 
 
-On the left is the **Assets** panel. These are the files that are inside of your project folder. The **builtins** folder is a special read only library that is included in all Defold projects with some essential defaults an empty project needs such as default shader materials. You can import other libraries too, but you cannot omit the **builtins**.
+On the left is the **Assets** panel. These are the files that are inside of your project folder. The **builtins** folder is a special **read only** library that is included in all Defold projects with some essential defaults an empty project needs such as default shader materials. You can import other libraries too, but you cannot omit the **builtins**. Read only means you can't edit these files, you must make copies of them if you wish to use them as a base to make a custom version.
+
+![Browse through the builtins folder so you know what&apos;s in there.](../.gitbook/assets/builtins-2018-07-20-09_14_40-window.png)
 
 On the bottom left is the **Changed Files**. This will show you any file modifications since your last git commit. If you use the editor's own git features or your own git setup the changed files will show here as long as you have a git repository setup. You can tell there is no git repository setup when no changed files history shows up, but also by the fact there is no .git folder in your project's home directory.
 
