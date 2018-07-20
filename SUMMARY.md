@@ -8,6 +8,7 @@
 * [Why Defold?](defold-a-z/why-defold.md)
 * [Defold History](defold-a-z/defold-history.md)
 * [Editor Tour](defold-a-z/editor-tour.md)
+* [Defold Tips](defold-a-z/defold-tips.md)
 
 ## Dive into Defold
 
