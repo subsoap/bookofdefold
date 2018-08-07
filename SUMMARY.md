@@ -23,3 +23,8 @@
 * [Game Business](dev-tips/game-business.md)
 * [Useful Software](dev-tips/useful-software.md)
 
+## Quick Projects
+
+* [Anchored GUIs](quick-projects-1/anchored-guis.md)
+* [Lasers](quick-projects-1/lasers.md)
+
