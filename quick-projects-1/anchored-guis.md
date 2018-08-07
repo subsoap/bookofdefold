@@ -39,7 +39,7 @@ Now when you scale the window the GUI elements will look to be spaced more consi
 
 ![](../.gitbook/assets/2018-08-07-14_41_59-anchoredguis.png)
 
-You should generally follow this example when anchoring elements to areas of the screen as even in less extreme scaling situations the spacing can look off if you do not. 
+You should generally follow this example when anchoring elements to areas of the screen as even in less extreme scaling situations the spacing can look off without this. 
 
 Using anchor GUIs can be useful for general GUI organization as well.
 
