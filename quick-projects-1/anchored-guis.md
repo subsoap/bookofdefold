@@ -33,6 +33,8 @@ Now you can move the box node to the area of the screen you wish to anchor other
 
 Then parent the other elements to this anchor GUI. You'll need to update their positions as they will now be relative to the anchor GUI.
 
+![](../.gitbook/assets/2018-08-07-14_46_34-defold-editor-2.0-anchoredguis.png)
+
 Now when you scale the window the GUI elements will look to be spaced more consistently.
 
 ![](../.gitbook/assets/2018-08-07-14_41_59-anchoredguis.png)
