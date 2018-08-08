@@ -13,6 +13,9 @@
   * [GUIs for Window Size](defold-a-z/defold-tips/guis-for-window-size.md)
 * [File Formats](defold-a-z/filetypes.md)
 * [game.project](defold-a-z/game.project.md)
+* [Lua Tips](defold-a-z/lua-tips/README.md)
+  * [About math.random\(\)](defold-a-z/lua-tips/about-math.random.md)
+  * [Randomly 1 or -1](defold-a-z/lua-tips/randomly-1-or-1.md)
 
 ## Dive into Defold
 
