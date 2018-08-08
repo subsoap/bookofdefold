@@ -1,5 +1,5 @@
 ---
-description: How to create and use Lua modules
+description: How to create and use Lua modules.
 ---
 
 # Lua Modules
@@ -87,7 +87,7 @@ If you wish to share your module then you'll want to give it a catchy name, then
 
 Then in the game.project file you would define the "log" folder as a include dir in the library area. See Log's setup for an example of this.
 
-Sharing modules on Github is currently the most popular way of sharing modules. Again, see how others are done and copy them. There are still many resources which have no Defold version so there is still opportunity for you to contribute to the community! When you do publish something make sure you use a license which has as much freedom for its users as possible. If you want to put your work into the public domain like I generally do then you can use the **Creative Commons Zero v1.0 Universal** license.
+Sharing modules on Github is currently the most popular way of sharing modules. Again, see how others are done and copy them. There are still many resources which have no Defold version so there is still opportunity for you to contribute to the community! When you do publish something make sure you use a license which has as much freedom for its users as possible if you want people to actually use it. If you want to put your work into the public domain like I generally do then you can use the **Creative Commons Zero v1.0 Universal** license.
 
 
 
