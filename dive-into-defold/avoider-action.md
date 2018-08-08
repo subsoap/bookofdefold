@@ -14,5 +14,7 @@ The features of this game are:
 * Player tries to avoid green smile faces which follow the player slowly.
 * When the player eats a blue pellet they can destroy both red and green smile faces, but there are only 4 pellets on the board ever.
 
+Demo: [https://www.bookofdefold.com/dive-into-defold/avoider/](https://www.bookofdefold.com/dive-into-defold/avoider/)
+
 
 
