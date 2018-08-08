@@ -16,6 +16,7 @@
 * [Lua Tips](defold-a-z/lua-tips/README.md)
   * [About math.random\(\)](defold-a-z/lua-tips/about-math.random.md)
   * [Randomly 1 or -1](defold-a-z/lua-tips/randomly-1-or-1.md)
+  * [Lua Modules](defold-a-z/lua-tips/lua-modules.md)
 
 ## Dive into Defold
 
