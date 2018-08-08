@@ -1,3 +1,7 @@
+---
+description: Reference your game's window size when editing a collection.
+---
+
 # GUIs for Window Size
 
 Currently the live version of the editor does not show you the size of your game window set in your game.project file.
