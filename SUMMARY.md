@@ -8,7 +8,9 @@
 * [Why Defold?](defold-a-z/why-defold.md)
 * [Defold History](defold-a-z/defold-history.md)
 * [Editor Tour](defold-a-z/editor-tour.md)
-* [Defold Tips](defold-a-z/defold-tips.md)
+* [Defold Tips](defold-a-z/defold-tips/README.md)
+  * [Anchored GUIs](defold-a-z/defold-tips/anchored-guis.md)
+  * [GUIs for Window Size](defold-a-z/defold-tips/guis-for-window-size.md)
 * [File Formats](defold-a-z/filetypes.md)
 * [game.project](defold-a-z/game.project.md)
 
@@ -25,6 +27,5 @@
 
 ## Quick Projects
 
-* [Anchored GUIs](quick-projects-1/anchored-guis.md)
 * [Lasers](quick-projects-1/lasers.md)
 
