@@ -6,7 +6,7 @@ description: How to create and use Lua modules.
 
 Lua modules are useful for sharing functions and data between your scripts. 
 
-To be able to share data between scripts make sure you have "shared state" checked in your game.project file.
+To be able to share data between scripts, make sure you have "shared state" checked in your game.project file.
 
 You can create a Lua module by right clicking on the asset panel and going New -&gt; Lua Module you can then name this file and create it.
 
@@ -26,7 +26,7 @@ return M
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Then the standard way to include a Lua module in another script as as follows:
+The standard way to include a Lua module in another script is as follows:
 
 ```lua
 local mymodule = require("mymodule")
@@ -46,9 +46,19 @@ We will edit our Lua module to add a function and a variable.
 local M = {}
 M.secret = 777
 
+-- you can get and set the M.secret value outside of the module
+
 function M.hello_world()
     print("Hello World Defold!")
 end
+
+-- you could call M.hello_world() here once too
+-- if you wanted any function to be called once for your module
+-- such as an init function which checks to see if it
+-- has already been initialized or not
+
+-- you can also define local functions here
+-- local functions in a module are private to that module
 
 return M
 ```
