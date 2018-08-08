@@ -4,8 +4,6 @@ description: Avoid a wave of enemies for as long as possible.
 
 # Avoider - Action
 
-TODO: make step by step tutorial.
-
 ![](../.gitbook/assets/2018-08-08-11_47_46-window.png)
 
 The features of this game are:
