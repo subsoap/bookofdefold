@@ -19,6 +19,10 @@
   * [Randomly 1 or -1](defold-a-z/lua-tips/randomly-1-or-1.md)
   * [Lua Modules](defold-a-z/lua-tips/lua-modules.md)
   * [Global Scope](defold-a-z/lua-tips/global-scope.md)
+* [Running Projects](defold-a-z/running-projects.md)
+* [Bundling Projects](defold-a-z/bundling-projects.md)
+* [Releasing Projects](defold-a-z/releasing-projects.md)
+* [Command Line Tools](defold-a-z/command-line-tools.md)
 
 ## Dive into Defold
 
