@@ -29,6 +29,7 @@
 * [Make Games Now!](dive-into-defold/make-games-now.md)
 * [Avoider - Action](dive-into-defold/avoider-action.md)
 * [Asteroids - Action](dive-into-defold/asteroids-action.md)
+* [Level Editor - Tool](dive-into-defold/level-editor-tool.md)
 
 ## Dev Tips
 
