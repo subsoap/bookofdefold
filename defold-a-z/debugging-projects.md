@@ -18,3 +18,5 @@ By using the web profiler, you can get a clue as to what is taking the most proc
 
 ![](../.gitbook/assets/2018-08-20-00_21_47-dynamo-profiler.png)
 
+**todo** explain all of the options in the list.
+
