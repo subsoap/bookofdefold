@@ -23,6 +23,7 @@
 * [Bundling Projects](defold-a-z/bundling-projects.md)
 * [Releasing Projects](defold-a-z/releasing-projects.md)
 * [Command Line Tools](defold-a-z/command-line-tools.md)
+* [Debugging Projects](defold-a-z/debugging-projects.md)
 
 ## Dive into Defold
 
