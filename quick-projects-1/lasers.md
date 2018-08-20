@@ -10,7 +10,7 @@ You can draw lasers / lines easily in Defold. You will need to place the laser/l
 
 Your segments need to have a width of 1. Then place their sprites on a .go so that their left side is at x of 0. This may require you to place them at x of 0.5 like in this example.
 
-The important functions used in this example are dist2d to get the distances between two 2d points - this is used to determine how far to stretch the laser which is done through setting the x scale of the sprite's go, angle\_of\_vector\_between\_two\_points which returns the radian angle between two 2d points, and vmath.quat\_rotation\_z which returns a quaternion of the rotation around the z access based on the previously generated radian value. 
+The important functions used in this example are dist2d to get the distances between two 2d points - this is used to determine how far to stretch the laser which is done through setting the x scale of the sprite's go, angle\_of\_vector\_between\_two\_points which returns the radian angle between two 2d points, and vmath.quat\_rotation\_z which returns a quaternion of the rotation around the z axis based on the previously generated radian value. 
 
 ![](../.gitbook/assets/2018-08-07-19_25_17-laserexample.png)
 
