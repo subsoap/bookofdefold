@@ -15,6 +15,7 @@
   * [GUIs for Window Size](defold-a-z/defold-tips/guis-for-window-size.md)
   * [Pixel Art Assets](defold-a-z/defold-tips/pixel-art-assets.md)
 * [Lua Tips](defold-a-z/lua-tips/README.md)
+  * [Lua Tables](defold-a-z/lua-tips/lua-tables.md)
   * [About math.random\(\)](defold-a-z/lua-tips/about-math.random.md)
   * [Randomly 1 or -1](defold-a-z/lua-tips/randomly-1-or-1.md)
   * [Lua Modules](defold-a-z/lua-tips/lua-modules.md)
