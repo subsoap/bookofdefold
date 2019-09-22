@@ -1,6 +1,6 @@
 # Running Projects
 
-R unning Your Projects You can launch your game application at any time by going to Project -&gt; Build. This will by default build for your local OS, and then launch immediately. Projects built in this way are always in debug mode and not release mode.
+Running Your Projects You can launch your game application at any time by going to Project -&gt; Build. This will by default build for your local OS, and then launch immediately. Projects built in this way are always in debug mode and not release mode.
 
 If you are using Defold’s library system then you may need to get the latest version of your library files before making a build. Project -&gt; Fetch Libraries will do this for you. Defold does not grab the latest version of libraries for you otherwise. Libraries need not be hosted on official Defold servers, can can be fetched from, for example, publish GitHub hosted git repositories too.
 
